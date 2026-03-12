@@ -12,17 +12,10 @@ Uma derivação da palavra "método", que vem do Latim "methodus", cujo signific
 
 Os principais objetivos da metodologia ágil são:
 
-- **Reduzir os desperdícios:**  
-  Procuram identificar e minimizar desperdícios de recursos, tempo e esforços, visando maior eficiência e otimização dos processos de trabalho.
-
-- **Melhoria contínua:**  
-  Buscam constantemente melhorar a eficiência, a qualidade e a produtividade por meio de ciclos de inspeção e adaptação, promovendo a identificação e a resolução de problemas, bem como a busca por melhores práticas e processos.
-
-- **Foco na qualidade:**  
-  Priorizam a qualidade do produto ou serviço, incentivando práticas de desenvolvimento de software de alta qualidade, testes frequentes, revisões e melhorias contínuas.
-
-- **Entrega contínua de valor:**  
-  O foco principal é fornecer produtos ou serviços de alta qualidade e valor de forma constante e iterativa, priorizando o feedback e a satisfação dos clientes.
+- Ajuda a **reduzir e minimizar** desperdícios de recursos, tempos e esforços, visando eficiência e à otimização dos processos de trabalho;
+- **Melhoria contínua** na eficiência, qualidade e na produtividade, por meio de ciclos de inspeção e adaptação, promovendo a identificação e a resolução de problemas, bem como a busca por melhores práticas e processos;
+- Foco na **qualidade** do produto ou serviço, incentivando práticas de desenvolvimento de software de alta qualidade, testes frequentes, revisões e melhorias contínuas;
+- Fornecer produtos ou serviços de alta qualidade e **valor**, de forma constante e iterativa, priorizando o feedback e a satisfação dos clientes.
 
 ## Características da Metodologia Agile --
 Entre as principais características da metodologia Agile estão:
