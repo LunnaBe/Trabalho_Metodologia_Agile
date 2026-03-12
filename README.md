@@ -7,8 +7,8 @@
 
 ## O que é Metodologia? --
 Uma derivação da palavra "método", que vem do Latim "methodus", cujo significado, é " caminho para a realização de algo." Já a palavra "metodologia", consiste no campo que estuda os melhores métodos praticados, para uma explicação mais detalhada da abordagem de pesquisa e estudos, dito isso, é o estudo de métodos que possibilitam a melhor escolha de caminhos para chegar a um determinado fim, estabelecidas para o desenvolvimento de uma pesquisa.
-## **Características da Metodologia Agile**
 
+## Características da Metodologia Agile --
 Entre as principais características da metodologia Agile estão:
 
 - Desenvolvimento **iterativo e incremental**
@@ -17,5 +17,8 @@ Entre as principais características da metodologia Agile estão:
 - **Adaptação rápida** às mudanças de requisitos
 - Foco na entrega de **software funcional**
 
-**Referência:**  
-https://www.atlassian.com/agile
+## REFERÊNCIAS --
+
+ATLASSIAN. What is Agile? . ATLASSIAN . Disponível em:<https://www.atlassian.com/agile>.Acesso em: 12 mar. 2026.
+
+LOSNAK, Giulia. Metodologia Ágil - O que é?. Alura, 11 jun. 2019. Disponível em:<https://www.alura.com.br/artigos/o-que-e-metodologia-agil?srsltid=AfmBOoogSDU053W7HHR1KZTIw1UvTcYdnFFLfsIYM4oiDNVggRcOK-Vo>.Acesso em: 12 mar. 2026.
