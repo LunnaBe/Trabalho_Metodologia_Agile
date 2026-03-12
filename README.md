@@ -8,6 +8,10 @@
 ## O que é Metodologia? --
 Uma derivação da palavra "método", que vem do Latim "methodus", cujo significado, é " caminho para a realização de algo." Já a palavra "metodologia", consiste no campo que estuda os melhores métodos praticados, para uma explicação mais detalhada da abordagem de pesquisa e estudos, dito isso, é o estudo de métodos que possibilitam a melhor escolha de caminhos para chegar a um determinado fim, estabelecidas para o desenvolvimento de uma pesquisa.
 
+## Figura 1 - Representação da metodologia ágil no desenvolvimento de meios de transporte --
+<img src="https://blog.runrun.it/wp-content/uploads/2022/02/Representacao-da-metodologia-agil.png" alt="Metodologia Ágil" width="700"> <br>
+**Fonte: Blog Runrun.it**
+
 ## **Objetivo da Metodologia Ágil**
 
 Os principais objetivos da metodologia ágil são:
@@ -25,6 +29,8 @@ Entre as principais características da metodologia Agile estão:
 - **Colaboração constante** entre equipe e cliente
 - **Adaptação rápida** às mudanças de requisitos
 - Foco na entrega de **software funcional**
+
+
 
 ## REFERÊNCIAS --
 
