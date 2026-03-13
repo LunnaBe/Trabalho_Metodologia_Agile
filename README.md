@@ -36,4 +36,8 @@ Entre as principais características da metodologia Agile estão:
 
 ATLASSIAN. What is Agile? . ATLASSIAN . Disponível em:<https://www.atlassian.com/agile>.Acesso em: 12 mar. 2026.
 
+LAOYAN, Sarah. O que é a metodologia Agile? (Guia para iniciantes). Asana, 9 dez. 2025. Disponível em:<https://asana.com/pt/resources/agile-methodology>.Acesso em: 12 mar. 2026.
+
 LOSNAK, Giulia. Metodologia Ágil - O que é?. Alura, 11 jun. 2019. Disponível em:<https://www.alura.com.br/artigos/o-que-e-metodologia-agil?srsltid=AfmBOoogSDU053W7HHR1KZTIw1UvTcYdnFFLfsIYM4oiDNVggRcOK-Vo>.Acesso em: 12 mar. 2026.
+
+
