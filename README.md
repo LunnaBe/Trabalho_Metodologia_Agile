@@ -46,6 +46,16 @@ Além da flexibilidade e da capacidade natural de adaptação às mudanças, a a
 - **Foco na Entrega de Valor:** O sucesso de um projeto ágil não é medido apenas pelo cumprimento cego de um cronograma, mas sim pela entrega contínua de um produto funcional (como um MVP) que realmente resolva o problema do usuário final desde as primeiras semanas.
 
 
+## Características Da Metodologia Ágil ##
+Além da flexibilidade e da capacidade natural de adaptação às mudanças, a agilidade se destaca por um conjunto de características operacionais e culturais que transformam a dinâmica do projeto:
+
+*Iteratividade: O escopo do projeto não é executado de uma só vez. O trabalho é dividido em ciclos curtos e repetitivos (iterações ou Sprints). A cada ciclo finalizado, uma nova parte do produto é construída, testada e aprimorada.
+
+*Colaboração Constante: O modelo quebra os "muros" entre os departamentos e o cliente. A comunicação diária, clara e transparente entre todos os envolvidos é priorizada em detrimento da troca de e-mails formais e documentações excessivas.
+
+*Autonomia e Empoderamento das Equipes: Diferente do modelo tradicional de "comando e controle", as equipes ágeis são auto-gerenciáveis. Os profissionais recebem o objetivo (o que precisa ser feito) e têm a liberdade e a responsabilidade de decidir a melhor forma técnica de executá-lo.
+
+*Foco na Entrega de Valor: O sucesso de um projeto ágil não é medido apenas pelo cumprimento cego de um cronograma, mas sim pela entrega contínua de um produto funcional (como um MVP) que realmente resolva o problema do usuário final desde as primeiras semanas.
 
 
 ## REFERÊNCIAS --
