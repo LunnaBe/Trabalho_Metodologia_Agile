@@ -53,9 +53,31 @@ Para auxiliar nessa avaliação, é recomendado o uso do Framework “Cynefin”
 
 Em vez de forçar a metodologia em qualquer situação, o Cynefin classifica os desafios organizacionais e de desenvolvimento em quatro domínios distintos de complexidade: Simples, Complicado, Complexo e Caótico. É exatamente essa categorização que define se a abordagem iterativa do Ágil será a chave para o sucesso ou uma escolha inadequada. Para entender como isso funciona na prática, vejamos como o Cynefin classifica esses cenários de decisão:
 
-** O Domínio Complexo Ou Caótico (Ideal para o Ágil):** Projetos que envolvem alto nível de incerteza, múltiplos fatores interdependentes e falta de soluções claras desde o início. Exemplos incluem o desenvolvimento de softwares inovadores, aplicativos para startups e produtos digitais que dependem fortemente da reação do mercado. Nesses cenários, a agilidade brilha, pois oferece a flexibilidade necessária, adaptação contínua e a capacidade de responder às mudanças rapidamente.
+- *O Domínio Complexo Ou Caótico (Ideal para o Ágil):* Projetos que envolvem alto nível de incerteza, múltiplos fatores interdependentes e falta de soluções claras desde o início. Exemplos incluem o desenvolvimento de softwares inovadores, aplicativos para startups e produtos digitais que dependem fortemente da reação do mercado. Nesses cenários, a agilidade brilha, pois oferece a flexibilidade necessária, adaptação contínua e a capacidade de responder às mudanças rapidamente.
 
-** Os Domínios Simples ou Complicados (O Ágil NÃO é o ideal):** Projetos onde as causas, soluções e requisitos já são totalmente conhecidos e altamente previsíveis (como a construção de uma ponte ou a atualização de um sistema legado altamente regulamentado). Nesses casos, abordagens estruturadas e previsíveis, como o modelo Cascata, costumam ser mais apropriadas.
+- *Os Domínios Simples ou Complicados (O Ágil NÃO é o ideal): * Projetos onde as causas, soluções e requisitos já são totalmente conhecidos e altamente previsíveis (como a construção de uma ponte ou a atualização de um sistema legado altamente regulamentado). Nesses casos, abordagens estruturadas e previsíveis, como o modelo Cascata, costumam ser mais apropriadas.
+
+## VANTAGENS E DESVANTAGENS --
+Optar pela agilidade muda completamente o projeto. Embora traga vantagens claras na entrega de valor e na comunicação com o cliente, é um modelo que exige adaptação e apresenta seus alguns desafios.
+
+1.Vantagens:
+
+* Redução de Desperdícios: Identifica e minimiza o gasto desnecessário de tempo, esforço e recursos, focando apenas no que gera valor real.
+
+* Entrega Contínua de Valor: O cliente não precisa esperar o fim do projeto para ver resultados. Ele recebe produtos funcionais de forma constante e iterativa.
+
+* Adaptabilidade e Feedback Contínuo: Permite ajustes de rota frequentes com base nas validações reais dos stakeholders (partes interessadas), garantindo que o produto final realmente resolva o problema do usuário.
+
+* Foco na Qualidade: A cultura de ciclos curtos incentiva testes frequentes, revisões e melhoria contínua (melhoria contínua de processos e do código).
+
+2. Desvantagens:
+
+* Gerenciamento de Expectativas: Como o escopo é flexível, o cliente pode se frustrar se não compreender que o produto final pode ser diferente da ideia inicial. É crucial alinhar expectativas constantemente para evitar mal-entendidos.
+
+* Dificuldade de Previsão Inicial: É muito difícil cravar um orçamento exato ou uma data final rígida no dia zero do projeto, o que pode ser um problema para empresas com orçamentos engessados.
+
+* Resistência à Mudança Cultural: Equipes acostumadas a receber ordens hierárquicas e documentações prontas podem ter grande dificuldade de adaptação, já que o Ágil exige comunicação constante, engajamento e auto-organização diária.
+
 
 
 
