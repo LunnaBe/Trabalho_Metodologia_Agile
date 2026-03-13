@@ -53,9 +53,9 @@ Para auxiliar nessa avaliação, é recomendado o uso do Framework “Cynefin”
 
 Em vez de forçar a metodologia em qualquer situação, o Cynefin classifica os desafios organizacionais e de desenvolvimento em quatro domínios distintos de complexidade: Simples, Complicado, Complexo e Caótico. É exatamente essa categorização que define se a abordagem iterativa do Ágil será a chave para o sucesso ou uma escolha inadequada. Para entender como isso funciona na prática, vejamos como o Cynefin classifica esses cenários de decisão:
 
-- *O Domínio Complexo Ou Caótico (Ideal para o Ágil):* Projetos que envolvem alto nível de incerteza, múltiplos fatores interdependentes e falta de soluções claras desde o início. Exemplos incluem o desenvolvimento de softwares inovadores, aplicativos para startups e produtos digitais que dependem fortemente da reação do mercado. Nesses cenários, a agilidade brilha, pois oferece a flexibilidade necessária, adaptação contínua e a capacidade de responder às mudanças rapidamente.
+- *Os Domínios Complexo Ou Caótico (Ideal para o Ágil):* Projetos que envolvem alto nível de incerteza, múltiplos fatores interdependentes e falta de soluções claras desde o início. Exemplos incluem o desenvolvimento de softwares inovadores, aplicativos para startups e produtos digitais que dependem fortemente da reação do mercado. Nesses cenários, a agilidade brilha, pois oferece a flexibilidade necessária, adaptação contínua e a capacidade de responder às mudanças rapidamente.
 
-- *Os Domínios Simples ou Complicados (O Ágil NÃO é o ideal): * Projetos onde as causas, soluções e requisitos já são totalmente conhecidos e altamente previsíveis (como a construção de uma ponte ou a atualização de um sistema legado altamente regulamentado). Nesses casos, abordagens estruturadas e previsíveis, como o modelo Cascata, costumam ser mais apropriadas.
+- *Os Domínios Simples ou Complicados (O Ágil NÃO é o ideal):* Projetos onde as causas, soluções e requisitos já são totalmente conhecidos e altamente previsíveis (como a construção de uma ponte ou a atualização de um sistema legado altamente regulamentado). Nesses casos, abordagens estruturadas e previsíveis, como o modelo Cascata, costumam ser mais apropriadas.
 
 ## VANTAGENS E DESVANTAGENS --
 Optar pela agilidade muda completamente o projeto. Embora traga vantagens claras na entrega de valor e na comunicação com o cliente, é um modelo que exige adaptação e apresenta seus alguns desafios.
@@ -77,6 +77,30 @@ Optar pela agilidade muda completamente o projeto. Embora traga vantagens claras
 * Dificuldade de Previsão Inicial: É muito difícil cravar um orçamento exato ou uma data final rígida no dia zero do projeto, o que pode ser um problema para empresas com orçamentos engessados.
 
 * Resistência à Mudança Cultural: Equipes acostumadas a receber ordens hierárquicas e documentações prontas podem ter grande dificuldade de adaptação, já que o Ágil exige comunicação constante, engajamento e auto-organização diária.
+
+## FERRAMENTAS E FRAMEWORKS
+A metodologia ágil ganha vida por meio de frameworks de trabalho e ferramentas que garantem a transparência e a colaboração. As principais frameworks e ferramentas são:
+1. Scrum: 
+O framework ágil mais utilizado no mundo. Ele divide o trabalho em iterações curtas chamadas “Sprints” e define papéis claros, como o Product Owner e o Scrum Master. Para gerenciá-lo, o mercado utiliza amplamente o software Jira, que permite controlar os Backlogs e acompanhar o progresso das Sprints.
+2. Kanban: 
+Método focado na gestão visual do fluxo de trabalho e na limitação de tarefas em progresso. A principal ferramenta digital associada a este método é o Trello, onde as tarefas movem-se por colunas como "A Fazer", "Em Andamento" e "Concluído".
+3. XP (Extreme Programming) e Lean: 
+O XP é voltado para práticas avançadas de engenharia de código , enquanto o Lean foca em otimizar processos e criar uma cultura de eliminação de desperdícios em qualquer setor da empresa.
+4. Crystal: 
+Criada por Alistair Cockburn, não é uma metodologia única, mas sim uma família de metodologias ágeis. O Crystal parte do princípio de que cada projeto e cada equipe são únicos. Portanto, ele oferece diretrizes flexíveis que se adaptam ao tamanho da equipe e à criticidade do projeto, focando sempre na comunicação efetiva mais do que em processos rígidos.
+5. SAFe (Scaled Agile Framework):
+Enquanto o Scrum tradicional funciona bem para equipes pequenas, o SAFe é um framework criado para aplicar a agilidade em larga escala dentro de grandes corporações. Ele fornece uma estrutura que alinha dezenas de equipes diferentes, unindo princípios do Scrum, Kanban e Lean para coordenar desde o nível operacional até o portfólio estratégico da empresa.
+6. LeSS (Large-Scale Scrum): 
+Como o próprio nome sugere, é um framework focado em expandir o Scrum. Ele é ideal para ambientes onde múltiplas equipes precisam trabalhar simultaneamente no desenvolvimento de um único produto complexo. O LeSS mantém a essência, os artefatos e as cerimônias do Scrum, mas simplifica as regras para evitar complexidade desnecessária na comunicação entre as várias equipes.
+
+## APLICABILIDADE EM PROJETOS REAIS E COMPARAÇÃO COM OUTRAS METODOLOGIAS
+
+Uma empresa que desenvolve softwares e aplicativos para outras companhias possui um projeto o qual é desenvolver um aplicativo que visa permitir que as pessoas encontrem restaurantes baratos perto de onde elas se encontram. Essa empresa possui a metodologia de Cascata, ou seja, o processo é realizado por meio de fases, e uma delas só é iniciada quando a anterior termina e, assim, não é necessário retornar a um trabalho, já que ele já foi completamente finalizado.
+
+Porém um dos desenvolvedores percebeu que estavam perdendo muito tempo seguindo esse caminho  e que o projeto não seria terminado a tempo, então ele sugeriu que  mudasse o método de trabalho de toda equipe. Ele sugeriu que o fosse adotado a Metodologia Ágil. Em vez de tentar prever, documentar e desenhar o aplicativo inteiro de uma só vez para só depois começar a programar, a equipe passou a dividir o projeto em ciclos curtos de trabalho, conhecidos como Sprints.
+
+Após sua sugestão ser aceita, o desenvolvimento seguiu de forma espetacular. A equipe conseguiu administrar melhor o tempo e melhorar o trabalho em equipe, com isso o projeto foi entregue a tempo e o cliente ficou satisfeito com o trabalho recebido.
+
 
 
 
