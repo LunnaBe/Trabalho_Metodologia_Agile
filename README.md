@@ -12,6 +12,22 @@ Uma derivação da palavra "método", que vem do Latim "methodus", cujo signific
 <img src="https://blog.runrun.it/wp-content/uploads/2022/02/Representacao-da-metodologia-agil.png" alt="Metodologia Ágil" width="700"> <br>
 **Fonte: Blog Runrun.it**
 
+## O que é Metologia Ágil? --
+A Metodologia Ágil é uma abordagem de gestão de projetos que busca a otimização contínua dos processos. Ela surgiu em 2001 quando um grupo de 17 pessoas publicou um documento “Manifesto Ágil”, em vez de seguir um plano rígido desde o início até a conclusão, a agilidade permite a adaptação e a realização de melhorias contínuas ao longo do desenvolvimento. O foco principal está no trabalho em equipe, na colaboração e na entrega de valor constante.
+
+Para sustentar esse foco foi estabelecido que a metodologia vai muito além de um mero conjunto de processos e ferramentas, sendo fundamentada em quatro valores centrais:
+
+* Indivíduos e interações: O sucesso de qualquer projeto depende de pessoas motivadas e de uma comunicação eficiente, indo além de processos e ferramentas. As melhores ferramentas do mercado não salvam um projeto se a equipe não dialogar e não trabalhar de forma colaborativa.
+
+* Software em funcionamento: O objetivo final é entregar um produto real que resolva o problema do usuário. Pilhas de relatórios e especificações detalhadas perdem o sentido se o sistema, na prática, não agregar valor ou não puder ser testado pelo cliente.
+
+* Colaboração com o cliente: O cliente deixa de ser tratado como um adversário contratual e passa a ser um parceiro diário da equipe, assim a relação com o cliente vai além de um simples contrato. O feedback constante durante o desenvolvimento é muito mais valioso do que seguir rigidamente um contrato fechado meses antes.
+
+* Responder a mudanças: Em um cenário dinâmico, incertezas e novos requisitos vão surgir. A equipe deve ter flexibilidade para adaptar rotas e abraçar mudanças ao longo do projeto, em vez de se prender cegamente a um planejamento inicial obsoleto.
+
+
+
+
 ## **Objetivo da Metodologia Ágil**
 
 Os principais objetivos da metodologia ágil são:
@@ -28,6 +44,9 @@ Além da flexibilidade e da capacidade natural de adaptação às mudanças, a a
 - **Colaboração Constante:** O modelo quebra os "muros" entre os departamentos e o cliente. A comunicação diária, clara e transparente entre todos os envolvidos é priorizada em detrimento da troca de e-mails formais e documentações excessivas.
 - **Autonomia e Empoderamento das Equipes:** Diferente do modelo tradicional de "comando e controle", as equipes ágeis são auto-gerenciáveis. Os profissionais recebem o objetivo (o que precisa ser feito) e têm a liberdade e a responsabilidade de decidir a melhor forma técnica de executá-lo.
 - **Foco na Entrega de Valor:** O sucesso de um projeto ágil não é medido apenas pelo cumprimento cego de um cronograma, mas sim pela entrega contínua de um produto funcional (como um MVP) que realmente resolva o problema do usuário final desde as primeiras semanas.
+
+
+
 
 ## REFERÊNCIAS --
 
