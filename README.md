@@ -45,17 +45,18 @@ Além da flexibilidade e da capacidade natural de adaptação às mudanças, a a
 - **Autonomia e Empoderamento das Equipes:** Diferente do modelo tradicional de "comando e controle", as equipes ágeis são auto-gerenciáveis. Os profissionais recebem o objetivo (o que precisa ser feito) e têm a liberdade e a responsabilidade de decidir a melhor forma técnica de executá-lo.
 - **Foco na Entrega de Valor:** O sucesso de um projeto ágil não é medido apenas pelo cumprimento cego de um cronograma, mas sim pela entrega contínua de um produto funcional (como um MVP) que realmente resolva o problema do usuário final desde as primeiras semanas.
 
+## ONDE ESSA METODOLOGIA É MAIS ADEQUADA --
 
-## Características Da Metodologia Ágil ##
-Além da flexibilidade e da capacidade natural de adaptação às mudanças, a agilidade se destaca por um conjunto de características operacionais e culturais que transformam a dinâmica do projeto:
+A decisão de utilizar a Metodologia Ágil em um projeto não deve ser baseada apenas em tendências de mercado, mas sim em uma análise criteriosa, da incerteza e do nível de dificuldade do projeto em questão. Afinal, uma das premissas fundamentais da administração é compreender que não existe uma abordagem única que funcione para todos os cenários.
 
-*Iteratividade: O escopo do projeto não é executado de uma só vez. O trabalho é dividido em ciclos curtos e repetitivos (iterações ou Sprints). A cada ciclo finalizado, uma nova parte do produto é construída, testada e aprimorada.
+Para auxiliar nessa avaliação, é recomendado o uso do Framework “Cynefin”. Trata-se de um modelo conceitual poderoso que ajuda equipes e lideranças a analisarem o contexto exato no qual um problema ou negócio está inserido, sugerindo as metodologias mais apropriadas com base nessa análise.
 
-*Colaboração Constante: O modelo quebra os "muros" entre os departamentos e o cliente. A comunicação diária, clara e transparente entre todos os envolvidos é priorizada em detrimento da troca de e-mails formais e documentações excessivas.
+Em vez de forçar a metodologia em qualquer situação, o Cynefin classifica os desafios organizacionais e de desenvolvimento em quatro domínios distintos de complexidade: Simples, Complicado, Complexo e Caótico. É exatamente essa categorização que define se a abordagem iterativa do Ágil será a chave para o sucesso ou uma escolha inadequada. Para entender como isso funciona na prática, vejamos como o Cynefin classifica esses cenários de decisão:
 
-*Autonomia e Empoderamento das Equipes: Diferente do modelo tradicional de "comando e controle", as equipes ágeis são auto-gerenciáveis. Os profissionais recebem o objetivo (o que precisa ser feito) e têm a liberdade e a responsabilidade de decidir a melhor forma técnica de executá-lo.
+** O Domínio Complexo Ou Caótico (Ideal para o Ágil):** Projetos que envolvem alto nível de incerteza, múltiplos fatores interdependentes e falta de soluções claras desde o início. Exemplos incluem o desenvolvimento de softwares inovadores, aplicativos para startups e produtos digitais que dependem fortemente da reação do mercado. Nesses cenários, a agilidade brilha, pois oferece a flexibilidade necessária, adaptação contínua e a capacidade de responder às mudanças rapidamente.
 
-*Foco na Entrega de Valor: O sucesso de um projeto ágil não é medido apenas pelo cumprimento cego de um cronograma, mas sim pela entrega contínua de um produto funcional (como um MVP) que realmente resolva o problema do usuário final desde as primeiras semanas.
+** Os Domínios Simples ou Complicados (O Ágil NÃO é o ideal):** Projetos onde as causas, soluções e requisitos já são totalmente conhecidos e altamente previsíveis (como a construção de uma ponte ou a atualização de um sistema legado altamente regulamentado). Nesses casos, abordagens estruturadas e previsíveis, como o modelo Cascata, costumam ser mais apropriadas.
+
 
 
 ## REFERÊNCIAS --
