@@ -1,18 +1,18 @@
 # Metodologia Agile - Ágil
 
-## Integrantes --
+## Integrantes 
 **Nome:** Luna Beatriz Alves, Nicolas de Oliveira Lima, Kaio Alves Gonzaga Silva  <br>
 **Curso:** Desenvolvimento de Sistemas  <br>
 **Instrutor:** Frederico Martins Aguiar  <br>
 
-## O que é Metodologia? --
+## O que é Metodologia? 
 Uma derivação da palavra "método", que vem do Latim "methodus", cujo significado, é " caminho para a realização de algo." Já a palavra "metodologia", consiste no campo que estuda os melhores métodos praticados, para uma explicação mais detalhada da abordagem de pesquisa e estudos, dito isso, é o estudo de métodos que possibilitam a melhor escolha de caminhos para chegar a um determinado fim, estabelecidas para o desenvolvimento de uma pesquisa.
 
 ## Figura 1 - Representação da metodologia ágil no desenvolvimento de meios de transporte --
 <img src="https://blog.runrun.it/wp-content/uploads/2022/02/Representacao-da-metodologia-agil.png" alt="Metodologia Ágil" width="700"> <br>
 **Fonte: Blog Runrun.it**
 
-## O que é Metologia Ágil? --
+## O que é Metologia Ágil?
 A Metodologia Ágil é uma abordagem de gestão de projetos que busca a otimização contínua dos processos. Ela surgiu em 2001 quando um grupo de 17 pessoas publicou um documento “Manifesto Ágil”, em vez de seguir um plano rígido desde o início até a conclusão, a agilidade permite a adaptação e a realização de melhorias contínuas ao longo do desenvolvimento. O foco principal está no trabalho em equipe, na colaboração e na entrega de valor constante.
 
 Para sustentar esse foco foi estabelecido que a metodologia vai muito além de um mero conjunto de processos e ferramentas, sendo fundamentada em quatro valores centrais:
@@ -37,7 +37,7 @@ Os principais objetivos da metodologia ágil são:
 - Foco na **qualidade** do produto ou serviço, incentivando práticas de desenvolvimento de software de alta qualidade, testes frequentes, revisões e melhorias contínuas;
 - Fornecer produtos ou serviços de alta qualidade e **valor**, de forma constante e iterativa, priorizando o feedback e a satisfação dos clientes.
 
-## Características da Metodologia Agile --
+## Características da Metodologia Agile
 Além da flexibilidade e da capacidade natural de adaptação às mudanças, a agilidade se destaca por um conjunto de características operacionais e culturais que transformam a dinâmica do projeto:
 
 - **Iteratividade:** O escopo do projeto não é executado de uma só vez. O trabalho é dividido em ciclos curtos e repetitivos (iterações ou Sprints). A cada ciclo finalizado, uma nova parte do produto é construída, testada e aprimorada.
@@ -45,7 +45,7 @@ Além da flexibilidade e da capacidade natural de adaptação às mudanças, a a
 - **Autonomia e Empoderamento das Equipes:** Diferente do modelo tradicional de "comando e controle", as equipes ágeis são auto-gerenciáveis. Os profissionais recebem o objetivo (o que precisa ser feito) e têm a liberdade e a responsabilidade de decidir a melhor forma técnica de executá-lo.
 - **Foco na Entrega de Valor:** O sucesso de um projeto ágil não é medido apenas pelo cumprimento cego de um cronograma, mas sim pela entrega contínua de um produto funcional (como um MVP) que realmente resolva o problema do usuário final desde as primeiras semanas.
 
-## ONDE ESSA METODOLOGIA É MAIS ADEQUADA --
+## Onde Essa Metodologia é Mais Adequada
 
 A decisão de utilizar a Metodologia Ágil em um projeto não deve ser baseada apenas em tendências de mercado, mas sim em uma análise criteriosa, da incerteza e do nível de dificuldade do projeto em questão. Afinal, uma das premissas fundamentais da administração é compreender que não existe uma abordagem única que funcione para todos os cenários.
 
@@ -57,7 +57,7 @@ Em vez de forçar a metodologia em qualquer situação, o Cynefin classifica os 
 
 - *Os Domínios Simples ou Complicados (O Ágil NÃO é o ideal):* Projetos onde as causas, soluções e requisitos já são totalmente conhecidos e altamente previsíveis (como a construção de uma ponte ou a atualização de um sistema legado altamente regulamentado). Nesses casos, abordagens estruturadas e previsíveis, como o modelo Cascata, costumam ser mais apropriadas.
 
-## VANTAGENS E DESVANTAGENS --
+## Vantagens e Desvantagens
 Optar pela agilidade muda completamente o projeto. Embora traga vantagens claras na entrega de valor e na comunicação com o cliente, é um modelo que exige adaptação e apresenta seus alguns desafios.
 
 1.Vantagens:
@@ -78,7 +78,7 @@ Optar pela agilidade muda completamente o projeto. Embora traga vantagens claras
 
 * Resistência à Mudança Cultural: Equipes acostumadas a receber ordens hierárquicas e documentações prontas podem ter grande dificuldade de adaptação, já que o Ágil exige comunicação constante, engajamento e auto-organização diária.
 
-## FERRAMENTAS E FRAMEWORKS
+## Ferramentas e Frameworks
 A metodologia ágil ganha vida por meio de frameworks de trabalho e ferramentas que garantem a transparência e a colaboração. As principais frameworks e ferramentas são:
 1. Scrum: 
 O framework ágil mais utilizado no mundo. Ele divide o trabalho em iterações curtas chamadas “Sprints” e define papéis claros, como o Product Owner e o Scrum Master. Para gerenciá-lo, o mercado utiliza amplamente o software Jira, que permite controlar os Backlogs e acompanhar o progresso das Sprints.
@@ -93,7 +93,7 @@ Enquanto o Scrum tradicional funciona bem para equipes pequenas, o SAFe é um fr
 6. LeSS (Large-Scale Scrum): 
 Como o próprio nome sugere, é um framework focado em expandir o Scrum. Ele é ideal para ambientes onde múltiplas equipes precisam trabalhar simultaneamente no desenvolvimento de um único produto complexo. O LeSS mantém a essência, os artefatos e as cerimônias do Scrum, mas simplifica as regras para evitar complexidade desnecessária na comunicação entre as várias equipes.
 
-## APLICABILIDADE EM PROJETOS REAIS E COMPARAÇÃO COM OUTRAS METODOLOGIAS
+## Aplicabilidade em Projetos Reais e Comparação com Outras Metodologias
 
 Uma empresa que desenvolve softwares e aplicativos para outras companhias possui um projeto o qual é desenvolver um aplicativo que visa permitir que as pessoas encontrem restaurantes baratos perto de onde elas se encontram. Essa empresa possui a metodologia de Cascata, ou seja, o processo é realizado por meio de fases, e uma delas só é iniciada quando a anterior termina e, assim, não é necessário retornar a um trabalho, já que ele já foi completamente finalizado.
 
