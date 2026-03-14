@@ -8,7 +8,7 @@
 ## O que é Metodologia? 
 Uma derivação da palavra "método", que vem do Latim "methodus", cujo significado, é " caminho para a realização de algo." Já a palavra "metodologia", consiste no campo que estuda os melhores métodos praticados, para uma explicação mais detalhada da abordagem de pesquisa e estudos, dito isso, é o estudo de métodos que possibilitam a melhor escolha de caminhos para chegar a um determinado fim, estabelecidas para o desenvolvimento de uma pesquisa.
 
-## O que é Metologia Ágil?
+## O que é Metodologia Ágil?
 A Metodologia Ágil é uma abordagem de gestão de projetos que busca a otimização contínua dos processos. Ela surgiu em 2001 quando um grupo de 17 pessoas publicou um documento “Manifesto Ágil”, em vez de seguir um plano rígido desde o início até a conclusão, a agilidade permite a adaptação e a realização de melhorias contínuas ao longo do desenvolvimento. O foco principal está no trabalho em equipe, na colaboração e na entrega de valor constante.
 
 Para sustentar esse foco foi estabelecido que a metodologia vai muito além de um mero conjunto de processos e ferramentas, sendo fundamentada em quatro valores centrais:
