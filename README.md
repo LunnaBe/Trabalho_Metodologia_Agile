@@ -77,17 +77,17 @@ Optar pela agilidade muda completamente o projeto. Embora traga vantagens claras
 
 ## Ferramentas e Frameworks
 A metodologia ágil ganha vida por meio de frameworks de trabalho e ferramentas que garantem a transparência e a colaboração. As principais frameworks e ferramentas são:
-**1. Scrum:** 
+* **1. Scrum:** 
 O framework ágil mais utilizado no mundo. Ele divide o trabalho em iterações curtas chamadas “Sprints” e define papéis claros, como o Product Owner e o Scrum Master. Para gerenciá-lo, o mercado utiliza amplamente o software Jira, que permite controlar os Backlogs e acompanhar o progresso das Sprints.
-**2. Kanban:** 
+* **2. Kanban:** 
 Método focado na gestão visual do fluxo de trabalho e na limitação de tarefas em progresso. A principal ferramenta digital associada a este método é o Trello, onde as tarefas movem-se por colunas como "A Fazer", "Em Andamento" e "Concluído".
-**3. XP (Extreme Programming) e Lean:** 
+* **3. XP (Extreme Programming) e Lean:** 
 O XP é voltado para práticas avançadas de engenharia de código , enquanto o Lean foca em otimizar processos e criar uma cultura de eliminação de desperdícios em qualquer setor da empresa.
-**4. Crystal:** 
+* **4. Crystal:** 
 Criada por Alistair Cockburn, não é uma metodologia única, mas sim uma família de metodologias ágeis. O Crystal parte do princípio de que cada projeto e cada equipe são únicos. Portanto, ele oferece diretrizes flexíveis que se adaptam ao tamanho da equipe e à criticidade do projeto, focando sempre na comunicação efetiva mais do que em processos rígidos.
-**5. SAFe (Scaled Agile Framework):**
+* **5. SAFe (Scaled Agile Framework):**
 Enquanto o Scrum tradicional funciona bem para equipes pequenas, o SAFe é um framework criado para aplicar a agilidade em larga escala dentro de grandes corporações. Ele fornece uma estrutura que alinha dezenas de equipes diferentes, unindo princípios do Scrum, Kanban e Lean para coordenar desde o nível operacional até o portfólio estratégico da empresa.
-**6. LeSS (Large-Scale Scrum):** 
+* **6. LeSS (Large-Scale Scrum):** 
 Como o próprio nome sugere, é um framework focado em expandir o Scrum. Ele é ideal para ambientes onde múltiplas equipes precisam trabalhar simultaneamente no desenvolvimento de um único produto complexo. O LeSS mantém a essência, os artefatos e as cerimônias do Scrum, mas simplifica as regras para evitar complexidade desnecessária na comunicação entre as várias equipes.
 
 ## Aplicabilidade em Projetos Reais e Comparação com Outras Metodologias
